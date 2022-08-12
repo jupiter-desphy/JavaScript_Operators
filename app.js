@@ -44,13 +44,14 @@ console.log("EXERCISE 3:\n==========\n");
 let val = 5;
 let str3 = "5";
 let str4 = "five";
+let isAwake = false;
 
 
 console.log (val == str3)
 console.log (val === str3)
-console.log (!isPresent)
+console.log (!isAwake)
 console.log ("eleven" == str4 && val >= str3)
-console.log (!isPresent || isPresent)
+console.log (!isAwake || isAwake)
 console.log (0==false)
 console.log (0===false)
 console.log (0!=false)
